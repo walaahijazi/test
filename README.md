@@ -1,2 +1,2 @@
 # test
-test repoo
+test repoo for git command

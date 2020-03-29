@@ -1,6 +1,5 @@
 # test
 test repoo for git command
-HI MURAD
-HI SILVANA
-
+i hope you find this well
+you are doing great job
 
